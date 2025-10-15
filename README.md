@@ -1,16 +1,61 @@
-# React + Vite
+# 🪨 Rock Paper Scissor Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and fun **Rock, Paper, Scissor** game built using **React.js**.  
+Players can test their luck against the computer and enjoy an interactive UI with images and clean design.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Project Overview
 
-## React Compiler
+This project is a beginner-friendly React application that demonstrates:
+- React component structure
+- CSS-in-JS styling
+- Dynamic image rendering
+- Basic event handling and state management
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
 
-## Expanding the ESLint configuration
+## 🧩 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🎮 Classic Rock-Paper-Scissor gameplay  
+- 🖼️ Dynamic image rendering using local assets  
+- ⚡ Interactive and responsive design  
+- 🧠 Randomized computer choices  
+- 💬 Real-time result display  
+
+
+## 🧠 How It Works
+
+1. The player selects Rock, Paper, or Scissor.
+2. The computer randomly picks one.
+3. The result is calculated instantly:
+   - Rock beats Scissor 🪨✂️  
+   - Scissor beats Paper ✂️📄  
+   - Paper beats Rock 📄🪨
+4. The winner is displayed dynamically.
+
+
+## 🛠️ Technologies Used
+
+| Technology | Description |
+|-------------|-------------|
+| **React.js** | Frontend library for building UI |
+| **Styled Components** | For custom component-based styling |
+| **JavaScript (ES6+)** | Core game logic and interactivity |
+| **Vite / Create React App** | For fast development and bundling |
+
+
+## 🧰 Installation & Setup
+
+Follow these steps to run this project locally 👇
+
+```bash
+# 1️⃣ Clone this repository
+git clone https://github.com/your-username/rock-paper-scissor.git
+
+# 2️⃣ Navigate into the project directory
+cd rock-paper-scissor
+
+# 3️⃣ Install dependencies
+npm install
+
+# 4️⃣ Start the development server
+npm run dev
