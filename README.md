@@ -1,4 +1,4 @@
-# 🪨 Rock Paper Scissor Game
+# 🎮 Rock Paper Scissor Game
 
 A simple and fun **Rock, Paper, Scissor** game built using **React.js**.  
 Players can test their luck against the computer and enjoy an interactive UI with images and clean design.
@@ -59,3 +59,6 @@ npm install
 
 # 4️⃣ Start the development server
 npm run dev
+
+
+Would you like me to replace `your-username` with your **actual GitHub username** before you copy it?
