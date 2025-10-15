@@ -27,9 +27,9 @@ This project is a beginner-friendly React application that demonstrates:
 1. The player selects Rock, Paper, or Scissor.
 2. The computer randomly picks one.
 3. The result is calculated instantly:
-   - Rock beats Scissor 🪨✂️  
+   - Rock beats Scissor 🎮✂️  
    - Scissor beats Paper ✂️📄  
-   - Paper beats Rock 📄🪨
+   - Paper beats Rock 📄🎮
 4. The winner is displayed dynamically.
 
 
